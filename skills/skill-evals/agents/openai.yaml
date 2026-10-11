@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill Evaluations"
+  short_description: "Check skill behavior with realistic bounded tasks"
+  default_prompt: "Use $skill-evals to test whether this skill produces the intended behavior."
+policy:
+  allow_implicit_invocation: true
