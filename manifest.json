@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "defaults.md",
+      "sha256": "da3ef9b7fefc21e9f25304c54038c86213683b65bc2d6be0bc8449ea3ddaac98"
+    },
+    {
+      "path": "skills/evidence-driven-testing/SKILL.md",
+      "sha256": "ff663a05590a34beabcea177ad4bda4ad175ea4dd0e34a57c22fc6bda385432f"
+    },
+    {
+      "path": "skills/evidence-driven-testing/agents/openai.yaml",
+      "sha256": "8619a54e8c098122a7f3881394f84ca89b684366e848233a29ad18b6ec363935"
+    },
+    {
+      "path": "skills/skill-evals/SKILL.md",
+      "sha256": "567db39ae3ce9161c28b4b791832b0f274f0c1105665a70069cc31c74c243a5f"
+    },
+    {
+      "path": "skills/skill-evals/agents/openai.yaml",
+      "sha256": "eee2ba74cd940ec518201677a9e9b0990e3e3adc6ddf3e6913c3c401d1849cb0"
+    },
+    {
+      "path": "skills/verification-setup/SKILL.md",
+      "sha256": "e8b0d57f812de22d9f4251274c0494086544fd94e180c56c2ef8446836a8e193"
+    },
+    {
+      "path": "skills/verification-setup/agents/openai.yaml",
+      "sha256": "fc8ac1bdce750925e301c59d8db2b6cd8f74f81820e87c8d17d773e84076b47b"
+    },
+    {
+      "path": "skills/verification-setup/references/app-verification-template.md",
+      "sha256": "41a891bbd292c8f984853870941cdd5f60a81f9a665244ee54dcf6a74ee74eb5"
+    }
+  ]
+}

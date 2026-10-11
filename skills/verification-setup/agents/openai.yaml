@@ -1,0 +1,6 @@
+interface:
+  display_name: "Verification Setup"
+  short_description: "Build a repeatable app check and feature map"
+  default_prompt: "Use $verification-setup to make this app verifiable on this computer."
+policy:
+  allow_implicit_invocation: true
